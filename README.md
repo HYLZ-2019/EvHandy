@@ -2,23 +2,15 @@
 
 EvHandy is an Android app for using event cameras directly from a phone. It supports live event preview, RAW event recording, recording management, playback, sharing, and optional RGB reference capture from the phone camera.
 
-Demo videos:
-
-Youtube (English): https://www.youtube.com/watch?v=dlwvo82HPqk
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dlwvo82HPqk?si=RYa1vAn5-FWw0xTo" title="
-EvHandy Demo: Use your event camera with your phone!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Bilibili (Chinese): https://www.bilibili.com/video/BV1JrDBBiEtH
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116364740135532&bvid=BV1JrDBBiEtH&cid=37321836891&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
+| Youtube (English): https://www.youtube.com/watch?v=dlwvo82HPqk | Bilibili (Chinese): https://www.bilibili.com/video/BV1JrDBBiEtH |
+|---------|----------|
+| [![EvHandy Demo: Use your event camera with your phone!](https://img.youtube.com/vi/dlwvo82HPqk/0.jpg)](https://www.youtube.com/watch?v=dlwvo82HPqk) | [![EvHandy Demo: 在手机上使用事件相机](http://i1.hdslb.com/bfs/storyff/_00000lxdmhjef915s2ozfoqgz3nbxsb_firsti.jpg)](https://www.bilibili.com/video/BV1JrDBBiEtH) |
 
 We sincerely thank our supporters:
 
-| Logo | Company | Homepage |
-| --- | --- | --- |
-| <img src="https://fluxeem.com/assets/logo.png" alt="Fluxeem logo" width="120"> | Fluxeem / 瞬极科技 | [fluxeem.com](https://www.fluxeem.com/) |
+| Logo | Company | Homepage | Introduction |
+| --- | --- | --- | --- |
+| <img src="https://fluxeem.com/assets/logo.png" alt="Fluxeem logo" width="120"> | Fluxeem / 瞬极科技 | [fluxeem.com](https://www.fluxeem.com/) | A next-gen machine vision solution provider, redefining machine vision through the temporal dimension. |
 
 ## Features
 

@@ -26,11 +26,11 @@ We sincerely thank our supporters:
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
   <div style="text-align: center;">
-    <img src="imgs/app_screenshots.jpg" alt="EvHandy app screenshots" style="max-height: 300px; width: auto;">
+    <img src="imgs/app_screenshots.jpg" alt="EvHandy app screenshots" style="max-height: 180px; width: auto;">
     <br><em>EvHandy Screenshots</em>
   </div>
   <div style="text-align: center;">
-    <img src="imgs/hardware_demo.jpg" alt="EvHandy hardware demo" style="max-height: 300px; width: auto;">
+    <img src="imgs/hardware_demo.jpg" alt="EvHandy hardware demo" style="max-height: 180px; width: auto;">
     <br><em>Hardware system demo</em>
   </div>
 </div>

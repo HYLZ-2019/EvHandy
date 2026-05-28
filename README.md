@@ -3,7 +3,7 @@
 EvHandy is an Android app for using event cameras directly from a phone. It supports live event preview, RAW event recording, recording management, playback, sharing, and optional RGB reference capture from the phone camera.
 
 | Youtube (English): https://www.youtube.com/watch?v=dlwvo82HPqk | Bilibili (Chinese): https://www.bilibili.com/video/BV1JrDBBiEtH |
-|---------|----------|
+|:---------:|:----------:|
 | <a href="https://www.youtube.com/watch?v=dlwvo82HPqk"><img src="https://img.youtube.com/vi/dlwvo82HPqk/0.jpg" alt="EvHandy Demo: Use your event camera with your phone!" height="180"></a> | <a href="https://www.bilibili.com/video/BV1JrDBBiEtH"><img src="https://i1.hdslb.com/bfs/storyff/_00000lxdmhjef915s2ozfoqgz3nbxsb_firsti.jpg" alt="EvHandy Demo: 在手机上使用事件相机" height="180"></a> |
 
 We sincerely thank our supporters:
@@ -24,20 +24,11 @@ We sincerely thank our supporters:
 - Camera settings for bias offsets, anti-flicker filtering, trail filtering, event rate control, ROI, hot-pixel masking, and stream configuration.
 - English and Chinese interface languages.
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
-  <div style="text-align: center;">
-    <img src="imgs/app_screenshots.jpg" alt="EvHandy app screenshots" style="max-height: 180px; width: auto;">
-    <br><em>EvHandy Screenshots</em>
-  </div>
-  <div style="text-align: center;">
-    <img src="imgs/hardware_demo.jpg" alt="EvHandy hardware demo" style="max-height: 180px; width: auto;">
-    <br><em>Hardware system demo</em>
-  </div>
-</div>
+| EvHandy Screenshots | Hardware system demo |
+| :---: | :---: |
+| <img src="imgs/app_screenshots.jpg" alt="EvHandy app screenshots" height="180"> | <img src="imgs/hardware_demo.jpg" alt="EvHandy hardware demo" height="180"> |
 
-## Supported Cameras
-
-Current supported camera models:
+## Supported Camera Models
 
 - Fluxeem ApexVision-S1
 - Prophesee EVK4

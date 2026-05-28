@@ -1,0 +1,3 @@
+# Local release artifacts. Upload these files as GitHub Release assets.
+/release-assets/
+*.apk

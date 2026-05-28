@@ -6,29 +6,12 @@ Demo videos:
 
 Youtube (English): https://www.youtube.com/watch?v=dlwvo82HPqk
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/dlwvo82HPqk"
-  title="EvHandy demo video on YouTube"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dlwvo82HPqk?si=RYa1vAn5-FWw0xTo" title="
+EvHandy Demo: Use your event camera with your phone!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Bilibili (Chinese): https://www.bilibili.com/video/BV1JrDBBiEtH
 
-<iframe
-  width="560"
-  height="315"
-  src="https://player.bilibili.com/player.html?bvid=BV1JrDBBiEtH&page=1&high_quality=1"
-  title="EvHandy demo video on Bilibili"
-  scrolling="no"
-  border="0"
-  frameborder="no"
-  framespacing="0"
-  allowfullscreen="true">
-</iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116364740135532&bvid=BV1JrDBBiEtH&cid=37321836891&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 We sincerely thank our supporters:

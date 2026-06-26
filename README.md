@@ -6,12 +6,6 @@ EvHandy is an Android app for using event cameras directly from a phone. It supp
 |:---------:|:----------:|
 | <a href="https://www.youtube.com/watch?v=dlwvo82HPqk"><img src="https://img.youtube.com/vi/dlwvo82HPqk/0.jpg" alt="EvHandy Demo: Use your event camera with your phone!" height="180"></a> | <a href="https://www.bilibili.com/video/BV1JrDBBiEtH"><img src="https://i1.hdslb.com/bfs/storyff/_00000lxdmhjef915s2ozfoqgz3nbxsb_firsti.jpg" alt="EvHandy Demo: 在手机上使用事件相机" height="180"></a> |
 
-We sincerely thank our supporters:
-
-| Logo | Company | Homepage | Introduction |
-| --- | --- | --- | --- |
-| <img src="https://fluxeem.com/assets/logo.png" alt="Fluxeem logo" width="120"> | Fluxeem / 瞬极科技 | [fluxeem.com](https://www.fluxeem.com/) | A next-gen machine vision solution provider, redefining machine vision through the temporal dimension. |
-
 ## Features
 
 - Live preview from supported USB event cameras.
@@ -30,7 +24,6 @@ We sincerely thank our supporters:
 
 ## Supported Camera Models
 
-- Fluxeem ApexVision-S1
 - Prophesee EVK4
 
 ## Phone and Cable Requirements

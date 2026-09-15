@@ -6,6 +6,10 @@ EvHandy is an Android app for using event cameras directly from a phone. It supp
 |:---------:|:----------:|
 | <a href="https://www.youtube.com/watch?v=dlwvo82HPqk"><img src="https://img.youtube.com/vi/dlwvo82HPqk/0.jpg" alt="EvHandy Demo: Use your event camera with your phone!" height="180"></a> | <a href="https://www.bilibili.com/video/BV1JrDBBiEtH"><img src="https://i1.hdslb.com/bfs/storyff/_00000lxdmhjef915s2ozfoqgz3nbxsb_firsti.jpg" alt="EvHandy Demo: 在手机上使用事件相机" height="180"></a> |
 
+## News
+
+* 2026-09-08: Our technical report [*EvHandy: Making Event Cameras Handy with a Smartphone App*](https://openreview.net/pdf?id=sTc3TAWahs) has been accepted to the ECCV 2026 EBMV Workshop and awarded the **Best Workshop Paper Award**! 🎉🎉🎉
+
 ## Features
 
 - Live preview from supported USB event cameras.
@@ -93,3 +97,16 @@ Selected files can also be packaged into a zip archive before sharing.
 📬 Want release notes and updates? Send an email with the subject "subscribe" to [evhandy@163.com](mailto:evhandy@163.com).
 
 ⭐ If EvHandy helps your work, a star on this repository would mean a lot.
+
+## Citation
+
+If you use EvHandy in an academic project, you can cite us (e.g. *We captured the dataset with a XXXX event camera using EvHandy~\cite{lou2026evhandy}* ... ) with:
+
+```
+@InProceedings{lou2026evhandy,
+  title={{EvHandy}: Making Event Cameras Handy with a Smartphone App},
+  author={Lou, Hanyue and Xiaokaiti, Yeliduosi and Wang, Zhuofeng and Shi, Boxin},
+  booktitle={ECCVW},
+  year={2026}
+}
+```
